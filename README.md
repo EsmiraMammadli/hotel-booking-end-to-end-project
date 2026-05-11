@@ -151,6 +151,10 @@ streamlit run similarity.py
 The app expects `hotel_bookings.csv` (the raw dataset) in the project root for the time-series and loyalty pages, and `bookings_clean.parquet` for the similarity engine. The `.pkl` and `.npy` artefacts must also be present in the root directory.
 
 ---
+## 🌐 Live Demo
+
+Streamlit App:
+[https://YOUR-APP-LINK.streamlit.app](https://hotel-booking-end-to-end-project-qmeerdf9afbfuixinvwjpe.streamlit.app/)
 
 ## 📊 Model Performance Summary
 
